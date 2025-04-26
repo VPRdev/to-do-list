@@ -44,8 +44,15 @@ Clone o repositório:
 - Métodos
 - Encapsulamento
 ### Estrutura de Dados
-  -Lista(ArrayList)
+  - Lista(ArrayList)
 ### Controle de Fluxo
   - Condicionais
   - Loops
   - Swicth-case
+
+---
+
+### Tela de exemplo: 
+
+![to-do-list](https://github.com/user-attachments/assets/ce581352-dc26-4179-a675-07aaa4d04218)
+
