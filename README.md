@@ -38,14 +38,14 @@ Clone o repositório:
 
 ## Conceitos Estudados
 
--**Programação Orientada a Objetos**
+### Programação Orientada a Objetos
 - Classes
 - Objetos
 - Métodos
 - Encapsulamento
--**Estrutura de Dados**
+### Estrutura de Dados
   -Lista(ArrayList)
--**Controle de Fluxo**
+### Controle de Fluxo
   - Condicionais
   - Loops
   - Swicth-case
